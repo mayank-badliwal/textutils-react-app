@@ -1,0 +1,19 @@
+/* Default Bootstrap Dark */
+[data-bs-theme="dark"] {
+  --bs-body-bg: #121212;
+  --bs-body-color: #ffffff;
+}
+
+/* Custom Dark Theme 1: Midnight */
+[data-bs-theme="midnight"] {
+  --bs-body-bg: #0a0a23;
+  --bs-body-color: #e0e0f7;
+  --bs-primary: #4f46e5;
+}
+
+/* Custom Dark Theme 2: Forest */
+[data-bs-theme="forest"] {
+  --bs-body-bg: #1a2e1a;
+  --bs-body-color: #d6f5d6;
+  --bs-primary: #198754;
+}
